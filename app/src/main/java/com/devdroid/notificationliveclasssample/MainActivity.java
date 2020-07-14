@@ -53,6 +53,8 @@ public class MainActivity extends AppCompatActivity {
                 .setContentIntent(pi)
                 .build();
 
+        // I made some changes
+
         //BigPictureStyle
         //InboxStyle
 
